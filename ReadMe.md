@@ -60,6 +60,4 @@
          <img src="https://img.youtube.com/vi/d8_MSbqHMVU/0.jpg" style="width:100%; height:400px">
       </a>
 </div>
-<br>
-<hr>
 
