@@ -46,12 +46,14 @@
          <img src="https://img.youtube.com/vi/nwljO7tNEL4/0.jpg" style="width:100%; height:400px">
       </a>
 </div>
+
 [Shredcountry](https://youtu.be/C6wdBdDaDAo)
 <div align="left">
       <a href="https://youtu.be/C6wdBdDaDAo">
          <img src="https://img.youtube.com/vi/C6wdBdDaDAo/0.jpg" style="width:100%; height:400px">
       </a>
 </div>
+
 [Geo Wars Retro^2](https://youtu.be/d8_MSbqHMVU)
 <div align="left">
       <a href="https://youtu.be/d8_MSbqHMVU">
