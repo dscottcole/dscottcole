@@ -35,6 +35,17 @@
 ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<br>
+<hr>
 
 ### Featured Project Videos:
+
+[Friend In Meow]
+<div align="left">
+      <a href="https://youtu.be/nwljO7tNEL4">
+         <img src="https://img.youtube.com/vi/nwljO7tNEL4/0.jpg" style="width:100%; height:400px">
+      </a>
+</div>
+<br>
+<hr>
 
